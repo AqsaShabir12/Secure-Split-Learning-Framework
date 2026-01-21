@@ -1,0 +1,8 @@
+pytorch_experiments/data/*
+data/*
+./data/*
+data/out/*
+!data/out/.gitkeep
+*.exe
+.idea/
+/gophernet

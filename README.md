@@ -1,2 +1,0 @@
-# Secure Split Learning Framework
-
